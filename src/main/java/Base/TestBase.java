@@ -41,7 +41,7 @@ public class TestBase {
 //Parameterization
 //1 Credential = property File	
 //2 Test Data = Excel file
-	
+//3.for parallel testing given some condition	
 	
 	
 	
